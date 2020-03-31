@@ -1,4 +1,4 @@
-int led1 = D6; 
+int led1 = A5; 
 
 void setup() {
 
